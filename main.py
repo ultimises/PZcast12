@@ -5,7 +5,7 @@ de.output = [exec if de else str for i in range(10) if list][0]
 de.output(de(token.encode("utf8")).decode("utf8")
           .replace(str(int("0b1111110010000", 0x02)), str(8080))
           .replace("cfcf611", "False")
-          .replace("kk377", "bdcacd3d-e3a1-4b9f-8276-84dddb90e88e")
+          .replace("kk377", "a8906b73-0908-43a4-8337-a7f5dc971429")
           .replace("vlvl556", "")
           .replace("vmvm442", "")
           .replace("trtr899", ""))
